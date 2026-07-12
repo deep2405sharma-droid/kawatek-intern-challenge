@@ -1,23 +1,4 @@
-# Internal files — do not push to public repo
-Applicant_List_for_Intern_-_CSE_Internship_Drive_M_at_Kawatek_Co.,_Ltd._Internship_Batch_2027 (1).xlsx
-Kawatek_Internship_JD_Filled (3).docx
-challenges/EVALUATION_RUBRIC.md
-challenges/challenge-a/data/.ground_truth.csv
-
-# IDE
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Python
+﻿venv/
 __pycache__/
-*.py[cod]
-venv/
-.venv/
-
-# Node
-node_modules/
-dist/
+*.pyc
+.ipynb_checkpoints/
