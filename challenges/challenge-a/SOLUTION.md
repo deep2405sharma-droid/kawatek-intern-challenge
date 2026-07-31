@@ -3,6 +3,9 @@
 ## Your Name
 Sanidhya Sharma
 
+ ## Email
+ sanidhya.sharma@mitwpu.edu.in
+
 ## Approach
 
 - Pipeline: load CSV → bandpass filter + normalize → segment into overlapping 200ms windows → extract 16 features per window (4 channels × 4 features) → train Random Forest classifier
